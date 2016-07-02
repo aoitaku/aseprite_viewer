@@ -1,6 +1,6 @@
 # aseprite_viewer
 
-![](http://aotak.me/files/spriteviewer.png)
+![](http://aotak.me/files/aseprite_viewer.png)
 
 Ruby 2.3 and bundler are required.
 
